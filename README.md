@@ -1,4 +1,4 @@
-# README: Image Segmentation using OpenCV
+# Image Segmentation using OpenCV
 
 This program demonstrates an interactive image segmentation technique using OpenCV. It performs image processing operations like masking, removing small areas, adding small areas, and dilation to segment regions of an image based on user input. The segmentation is controlled by mouse events and trackbars, which allow the user to fine-tune the parameters for better segmentation.
 
